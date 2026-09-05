@@ -34,3 +34,16 @@
 2026-08-22 21:29:08.445 | SUCCESS  | facebook_graph:write_post:117 - Successfully posted: 969199646286338_122121549260847307
 2026-08-22 21:40:04.893 | SUCCESS  | facebook_graph:write_post:117 - Successfully posted: 969199646286338_122121550268847307
 2026-08-22 21:40:05.060 | INFO     | __main__:std_post:10 - Title: Francisco Ribera: The Jesuit Godfather of Futurism / DispensationalismPassage: In the late Middle A
+2026-08-23 23:38:50.781 | SUCCESS  | facebook_graph:send_picture:133 - Successfully posted: 122121648716847307
+2026-09-04 16:01:41.224 | SUCCESS  | facebook_graph:write_post:117 - Successfully posted: 969199646286338_122122859516847307
+2026-09-04 16:01:41.232 | INFO     | __main__:std_post:10 - Title: The Vatican Billions by Avro Manhattan
+
+Passage: The Vatican Billions
+2026-09-04 16:02:29.787 | SUCCESS  | facebook_graph:write_post:117 - Successfully posted: 969199646286338_122122859606847307
+2026-09-04 16:02:29.789 | INFO     | __main__:std_post:10 - Title: Anti-Inquisition Youtube Channel
+
+Passage: Oficial Youtube of T
+2026-09-04 16:02:54.818 | SUCCESS  | facebook_graph:write_post:117 - Successfully posted: 969199646286338_122122859726847307
+2026-09-04 16:02:54.821 | INFO     | __main__:std_post:10 - Title: William 'Wild Bull' Munsell's Website
+
+Passage: William Munsell / Wi
